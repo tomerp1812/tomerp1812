@@ -1,6 +1,6 @@
 ### Hi there i'm Tomer👋
 
-📘 I’m a 3rd year computer science student at Bar-Ilan University.
+📘 I’m a B.Sc. Computer Science Graduate from Bar-Ilan University.
 
 📫 How to reach me: tomerp1812@gmail.com
 
